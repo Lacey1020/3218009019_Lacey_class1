@@ -1,0 +1,17 @@
+{
+"companyName": "Lacey‘ Game",
+"productName": "Brick Breaker 2D Game",
+"productVersion": "1.0",
+"dataUrl": "Brick Breaker.data.unityweb",
+"wasmCodeUrl": "Brick Breaker.wasm.code.unityweb",
+"wasmFrameworkUrl": "Brick Breaker.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Brick Breaker.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1c1"
+}
